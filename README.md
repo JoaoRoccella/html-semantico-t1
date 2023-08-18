@@ -39,3 +39,17 @@ Lista de tarefas:
 > Não faltem!
 > (João Marcos)
 
+Este é um método `console.log()` do javascript.
+
+Esta é uma função do JavaScript:
+```javascript
+function selecionaElemento() {
+  const body = document.querySelector('body');
+}
+```
+
+Frutas | Doces | Salgados
+:----- | :-----: | -----:
+banana | chocolate | coxinha
+maçã | bala Juquinha | esfiha
+uva | bombom | tapioca
