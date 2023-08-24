@@ -20,7 +20,6 @@ Ingredientes para o almoço:
 * Nori
 * Shoyu
 * Pepino
-* Gergelim
 * Salmão
 
 Lista da feira:
