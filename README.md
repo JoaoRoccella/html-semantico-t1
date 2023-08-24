@@ -2,7 +2,7 @@
 ## Dando significado à estrutura da aplicação
 Aqui vamos entender como estruturar nossa aplicação semanticamente
 
-Texto em **negrito** com asteristististiscos.
+Texto em **negrito** com asteriscos.
 Texto em __negrito__ com underscore.
 
 Texto em *itálico* com asterisco.
