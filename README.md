@@ -17,7 +17,6 @@ Texto em _itálico_ com underscore.
 Ingredientes para o almoço:
 * Arroz japonês
   * Momiji
-  * Tanaka
 * Nori
 * Shoyu
 * Pepino
