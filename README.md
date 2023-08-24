@@ -26,7 +26,6 @@ Lista da feira:
 - Banana
 - Agrião
 - Abacaxi
-- Tomate
 - Alface
 
 Lista de tarefas:
