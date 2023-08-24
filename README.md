@@ -49,6 +49,7 @@ function selecionaElemento() {
 }
 ```
 
+
 Frutas | Doces | Salgados
 :----- | :-----: | -----:
 banana | chocolate | coxinha
