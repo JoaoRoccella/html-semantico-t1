@@ -4,8 +4,99 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>HTML Semântico</title>
+    <link rel="stylesheet" href="./style.css">
 </head>
-<body>
+<body style="color:coral;">
+    <style>
+        body {
+            color:blueviolet;
+        }
+    </style>
+    <header id="topo-pagina">
+        <nav>
+            <!-- Lista não ordenada -->
+            <ul> 
+                <!--  Item de Lista -->
+                <li> 
+                    <a href="./index.html">Home</a>
+                </li>
+
+                <li>
+                    <a href="#sobre-nos">Sobre nós</a>
+                </li>
+
+                <li>
+                    <a href="#contato">Contato</a>
+                </li>
+
+            </ul>
+        </nav>
+
+        <h1 >Lorem ipsum dolor sit amet.</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam velit iusto minus adipisci eum hic facilis quibusdam pariatur nihil vero quam assumenda, inventore odit tenetur consequuntur quae voluptatem dolorum? Saepe recusandae eveniet voluptatibus alias quasi voluptas earum rem necessitatibus! Ab, iusto? Reiciendis harum, labore atque ipsam accusantium tenetur dolores delectus.</p>
+    </header>
+    
+
+    <h2>Lorem, ipsum.</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta minima deserunt tempore dolor libero eveniet inventore necessitatibus doloribus fugit consequuntur.</p>
+
+
+    <article>
+        <header>
+            <h1>Lorem ipsum dolor sit.</h1>
+            <p>Lorem, ipsum dolor.</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, eligendi!</p>
+        </header>
+    </article>
+
+    <article>
+        <header>
+            <h1>Lorem ipsum dolor sit amet.</h1>
+            <p>Lorem ipsum dolor sit.</p>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum esse laboriosam rem tempora aspernatur veritatis, voluptatum aliquam recusandae incidunt ratione dolorem blanditiis, facilis officiis sint, doloribus voluptates commodi delectus magnam adipisci eum quo quaerat maxime error rerum! Voluptates, ea dicta!
+            </p>
+        </header>
+    </article>
+
+    <section id="sobre-nos">
+
+        <a href="#topo-pagina">Voltar para o topo da página</a>
+
+        <h2>Sobre nós</h2>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt aperiam, ipsa nobis nostrum asperiores aut, quia repudiandae eveniet odit iusto illo dicta ipsum mollitia necessitatibus!</p>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum voluptate facere at excepturi dignissimos sit nesciunt minima voluptates quam ex ipsum sint natus temporibus, ad reiciendis maiores ab obcaecati repudiandae sunt ut, inventore et culpa?</p>
+
+        <p>Ford &lt;ENTER&gt;</p>
+
+    </section>
+
+    <!-- Crie uma nova seção para ser a seção de "contato" da página. Essa seção deve ter dois parágrafos como a seção "Sobre nós". A página deve conter um link no menu de navegação para esta seção e esta seção deve ter um link para voltar ao topo da página. -->
+
+    <section id="contato">
+
+        <a href="#topo-pagina">Voltar para o topo da página</a>
+
+        <h2>Contato</h2>
+
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi, tenetur ullam voluptate neque quos voluptates earum ipsam sit fuga! Quasi esse corrupti, vel facilis non asperiores iure pariatur odio unde!</p>
+
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni ullam inventore repudiandae, enim magnam nostrum consequatur accusantium explicabo natus corrupti, officiis earum quasi tempora quibusdam.</p>
+
+    </section>
+
+    <footer>
+        <!-- Proibido! -->
+        <!-- <header></header> -->
+
+        <a href="#topo-pagina">Voltar para o topo da página</a>
+
+        <p>
+            Link para o <a href="https://github.com/JoaoRoccella">meu GitHub</a>
+        </p>
+    </footer>
     
 </body>
 </html>
