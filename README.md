@@ -45,6 +45,7 @@ Lembrem-se de consultar a documentação do W3Schools e MDN Web Docs para obter 
 1. Crie e utilize um repositório chamado **html-semantico** no GitHub.
 2. Utilize uma máquina virtual do **GitHub Codespaces** para escrever e editar seu código.
 3. Não se esqueça de versionar o código sempre que preciso, utilize as práticas já vistas em aula para isso.
-4. **EXPLORE**, NÃO TENHA MEDO DE ERRAR. 
+4. Não se preocupe em estilizar a página com CSS, **foque na estrutura do HTML**.
+5. **EXPLORE**, NÃO TENHA MEDO DE ERRAR. 
 
 > Quem não erra, não aprende.
