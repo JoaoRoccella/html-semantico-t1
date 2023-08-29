@@ -37,9 +37,13 @@ Exemplo de código:
 ```
 
 #### Parte 3: Outras Seções
-Criem pelo menos mais três seções utilizando a tag `<section>`. Em cada seção, explorem o uso de diferentes tags semânticas, como `<article>`, `<aside>`, `<footer>`, `<blockquote>`, `<details>`, `<figure>`, entre outras. Incluam exemplos relevantes e expliquem seu propósito.
+Criem pelo menos mais três seções utilizando a tag `<section>`. Em cada seção, explorem o uso de diferentes tags semânticas, como `<main>`, `<article>`, `<aside>`, `<footer>`, `<blockquote>`, `<details>`, `<figure>`, entre outras. Incluam exemplos relevantes e expliquem seu propósito.
 
 Lembrem-se de consultar a documentação do W3Schools e MDN Web Docs para obter informações detalhadas sobre as tags e seus atributos.
+
+#### COMPLEMENTAR
+Utilize as tags `<strong>`, `<em>`, `<strike>`, `<del>` e `<ins>`, `<sup>` e `<sub>` para marcar trechos do seu código com ênfase.
+
 
 ### Observações:
 1. Crie e utilize um repositório chamado **html-semantico** no GitHub.
