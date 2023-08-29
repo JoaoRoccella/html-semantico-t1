@@ -42,7 +42,7 @@ Criem pelo menos mais três seções utilizando a tag `<section>`. Em cada seç�
 Lembrem-se de consultar a documentação do W3Schools e MDN Web Docs para obter informações detalhadas sobre as tags e seus atributos.
 
 #### COMPLEMENTAR
-Utilize as tags `<strong>`, `<em>`, `<strike>`, `<del>` e `<ins>`, `<sup>` e `<sub>` para marcar trechos do seu código com ênfase.
+Utilize as tags `<strong>`, `<em>`, `<del>` e `<ins>`, `<sup>` e `<sub>` para marcar trechos do seu código com ênfase.
 
 
 ### Observações:
