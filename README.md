@@ -37,7 +37,7 @@ Exemplo de código:
 ```
 
 #### Parte 3: Outras Seções
-Criem pelo menos mais três seções utilizando a tag `<section>`. Em cada seção, explorem o uso de diferentes tags semânticas, como `<main>`, `<article>`, `<aside>`, `<footer>`, `<blockquote>`, `<details>`, `<figure>`, entre outras. Incluam exemplos relevantes e expliquem seu propósito.
+Crie uma seção principal utilizando a tag semântica `<main>`. Dentro dela, criem pelo menos mais três seções utilizando a tag `<section>`. Em cada seção, explorem o uso de diferentes tags semânticas, como `<article>`, `<aside>`, `<footer>`, `<blockquote>`, `<cite>`, `<details>`, `<figure>`, entre outras. Incluam exemplos relevantes e expliquem seu propósito.
 
 Lembrem-se de consultar a documentação do W3Schools e MDN Web Docs para obter informações detalhadas sobre as tags e seus atributos.
 
