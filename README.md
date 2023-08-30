@@ -1,5 +1,7 @@
 # HTML Semântico
 
+Link do deployment: <https://joaoroccella.github.io/html-semantico-t1/>
+
 ## Atividade 1: Explorando as Tags Semânticas e Documentação do HTML
 
 ### Enunciado:
