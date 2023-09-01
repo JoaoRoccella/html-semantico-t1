@@ -7,3 +7,10 @@ html {
 body {
     color:crimson;
 }
+
+h1 {
+    color: saddlebrown;
+    line-height: 2;
+    font-weight: bold;
+    font-size: 22pt;
+}
