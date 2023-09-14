@@ -64,6 +64,18 @@ p {
     padding-top: 0;
 }
 
+.paragrafo-de-artigo:first-of-type {
+    border-radius: 20px 0 0 0;
+}
+
+.paragrafo-de-artigo:last-of-type {
+    border-radius: 0 0 20px 0;
+}
+
+.paragrafo-de-artigo:only-of-type {
+    border-radius: 20px 0 20px 0;
+}
+
 article {
     border: 8px solid var(--cor-quaternaria);
     padding: 30px;
