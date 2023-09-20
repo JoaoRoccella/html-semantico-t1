@@ -101,17 +101,25 @@ article {
 .menu-principal ul {
     background-color: var(--cor-primaria);
     display: flex;
-    justify-content: space-evenly;
+    justify-content: flex-end;
     flex-direction: row;
     align-items: center;
 }
 
 .menu-principal li {
     color: var(--cor-quaternaria);
-    line-height: 40px;
+    line-height: 50px;
+    display: flex;
+    transition: all .35s;
 }
 
 .menu-principal a {
     color: var(--cor-quaternaria);
     font-family: var(--fonte-secundaria);
+    font-size: 120%;
+    padding: 0 20px;
+}
+
+.menu-principal li:hover {
+    background-color: #4a1f13;
 }
